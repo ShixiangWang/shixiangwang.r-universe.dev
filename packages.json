@@ -17,7 +17,7 @@
     },
     {
         "package": "UCSCXenaTools",
-        "url": "https://github.com/ShixiangWang/UCSCXenaTools"
+        "url": "https://github.com/ropensci/UCSCXenaTools"
     },
     {
         "package": "UCSCXenaShiny",
