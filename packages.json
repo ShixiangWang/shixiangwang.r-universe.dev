@@ -2,5 +2,70 @@
     {
         "package": "gcap",
         "url": "https://github.com/ShixiangWang/gcap"
+    },
+    {
+        "package": "CNVMotif",
+        "url": "https://github.com/ShixiangWang/CNVMotif"
+    },
+    {
+        "package": "DoAbsolute",
+        "url": "https://github.com/ShixiangWang/DoAbsolute"
+    },
+    {
+        "package": "IDConverter",
+        "url": "https://github.com/ShixiangWang/IDConverter"
+    },
+    {
+        "package": "UCSCXenaTools",
+        "url": "https://github.com/ShixiangWang/UCSCXenaTools"
+    },
+    {
+        "package": "UCSCXenaShiny",
+        "url": "https://github.com/openbiox/UCSCXenaShiny"
+    },
+    {
+        "package": "contribution",
+        "url": "https://github.com/openbiox/contribution"
+    },
+    {
+        "package": "copynumber",
+        "url": "https://github.com/ShixiangWang/copynumber"
+    },
+    {
+        "package": "ezcox",
+        "url": "https://github.com/ShixiangWang/ezcox"
+    },
+    {
+        "package": "ggpolar",
+        "url": "https://github.com/ShixiangWang/polar"
+    },
+    {
+        "package": "metawho",
+        "url": "https://github.com/ShixiangWang/metawho"
+    },
+    {
+        "package": "neopeptides",
+        "url": "https://github.com/ShixiangWang/neopeptides"
+    },
+    {
+        "package": "regport",
+        "url": "https://github.com/ShixiangWang/regport"
+    },
+    {
+        "package": "rsra",
+        "url": "https://github.com/ShixiangWang/rsra"
+    }
+    ,
+    {
+        "package": "sigminer",
+        "url": "https://github.com/ShixiangWang/sigminer"
+    },
+    {
+        "package": "sigminer.prediction",
+        "url": "https://github.com/ShixiangWang/sigminer.prediction"
+    },
+    {
+        "package": "tinyscholar",
+        "url": "https://github.com/ShixiangWang/tinyscholar"
     }
 ]
